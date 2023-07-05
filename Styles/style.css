@@ -1,0 +1,102 @@
+*{
+    background-color: black;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    margin: 1px;
+    
+}
+
+.head {
+    color: red;
+}
+
+h1{
+    text-align: center;
+    font-weight: 200;
+    color: whitesmoke;
+    font-size: 50px
+}
+
+.first {
+    color: whitesmoke;
+    font-size: 30px;
+    margin: 20px;
+    padding: 30px;
+}
+h3{
+    font-weight: 400;
+    margin: 20px;
+    padding: 30px;
+    font-size: 40px;
+    text-align: center;
+    
+
+}
+.second {
+    color: whitesmoke;
+    margin: 1px;
+    padding: 3px;
+    font-size: 20px;
+    float: left;
+    
+}
+ul {
+    list-style: none;
+    text-align: center;
+    
+}
+li {
+    font-size: 50px;
+    font-weight: 300;
+}
+
+.iceland {
+    color: blueviolet;
+}
+.dubai {
+    color: gold;
+}
+.saintmartin {
+    color: aqua;
+}
+.southafrica {
+    color: coral;
+}
+
+h2{
+    text-align: center;
+    font-weight: 200;
+    color: whitesmoke;
+    font-size: 50px
+}
+
+.author {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 20%;
+}
+
+.me {
+    color: red;
+}
+
+.bio {
+    font-size: 15px;
+    font-weight: 200;
+    text-align: center;
+
+}
+.link {
+    color: red;
+}
+.link:hover {
+    color: aqua;
+    
+}
+
+.footer {
+    color: whitesmoke;
+    text-align: center;
+    font-size: 15px;
+    font-weight: 100;
+}
